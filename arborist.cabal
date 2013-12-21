@@ -17,7 +17,7 @@ build-type:          Simple
 cabal-version:       >=1.10
 
 executable arborist
-  -- main-is:             
+  main-is:           Arborist.hs
   -- other-modules:       
   -- other-extensions:    
   build-depends:       base >=4.6 && <4.7
